@@ -90,7 +90,7 @@ const networkIDtoEndpoints: NetworkMap = {
     browserURL: "https://testnet.snowtrace.io/",
   },
   [NetworkID.OPTIMISM]: {
-    apiURL: "https://optimistic.etherscan.io/api",
+    apiURL: "https://api-optimistic.etherscan.io/api",
     browserURL: "https://optimistic.etherscan.io",
   }
 };
